@@ -1,0 +1,13 @@
+{
+  "n_images": 120,
+  "n_adversarial": 60,
+  "n_benign": 60,
+  "baseline_english_miss_rate": 0.5333,
+  "detector_attack_success_rate": 0.0,
+  "detector_block_rate_on_adversarial": 1.0,
+  "detector_false_positive_rate_on_benign": 0.1,
+  "ocr_nonempty_rate": 1.0,
+  "ocr_mean_similarity": 0.7956,
+  "fail_closed": false,
+  "simulation_note": "VLM behavior is simulated from labels; no external VLM inference was run."
+}

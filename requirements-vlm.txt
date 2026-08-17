@@ -1,0 +1,8 @@
+# Extra dependencies for real VLM evaluation (src/vlm_evaluate.py).
+# Install these separately in Colab with a GPU runtime -- keeping them
+# out of requirements.txt keeps the base local prototype lightweight.
+transformers
+torch
+accelerate
+bitsandbytes
+qwen-vl-utils

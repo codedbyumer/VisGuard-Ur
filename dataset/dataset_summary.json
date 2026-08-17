@@ -1,0 +1,19 @@
+{
+  "n_prompts": 30,
+  "n_images": 120,
+  "variants": [
+    "clean",
+    "dark",
+    "small",
+    "noisy"
+  ],
+  "label_counts": {
+    "benign": 60,
+    "adversarial": 60
+  },
+  "script_counts": {
+    "urdu_script": 40,
+    "roman_urdu": 40,
+    "english": 40
+  }
+}

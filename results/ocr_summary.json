@@ -1,0 +1,7 @@
+{
+  "n_images": 120,
+  "ocr_available": true,
+  "nonempty_rate": 1.0,
+  "mean_confidence_nonempty": 80.445,
+  "oracle_fallback_rows": 0
+}

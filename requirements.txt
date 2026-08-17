@@ -1,0 +1,21 @@
+pandas>=2.0
+numpy>=1.24
+Pillow>=10.0
+pytesseract>=0.3.10
+scikit-learn>=1.3
+joblib>=1.3
+matplotlib>=3.7
+pytest>=7.0
+
+# Optional real VLM inference dependencies:
+# transformers
+# torch
+# accelerate
+# qwen-vl-utils
+
+# Optional OCR alternative:
+# paddleocr
+# paddlepaddle
+
+# Debian/Ubuntu system dependency:
+# sudo apt-get install tesseract-ocr tesseract-ocr-urd
